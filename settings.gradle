@@ -1,0 +1,2 @@
+rootProject.name='NetworkLossCheck'
+include ':app'
